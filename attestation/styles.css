@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/1324657.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+ul li {
+    list-style-type:none;
+    margin: 0 10px;
+}
+ul {
+    display: flex;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: -10px 10px;
+    font-size: 25px;
+    color: white;
+    font-weight: 900;
+}
+.container {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height: 85vh;
+    color: white;
+    font-size:55px;
+    font-weight: 900px;
+
+}
